@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702351228 source:c:\users\felip\onedrive\documentos\pass-forge\main.c
+	<stdio.h>
+	<stdlib.h>
+
